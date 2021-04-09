@@ -1,4 +1,4 @@
-## Hi There! I'm FebriAdji🎓
+## Hi There! I'm FebriAdji ⚗️
 ~~~javascript
 const AboutMe = {
   profile: {
@@ -10,5 +10,5 @@ const AboutMe = {
 }
 ~~~
 
-## Quotes📌 That I Like
+## Quotes 🧪 That I Like
 > I always like to look on the optimistic side of life, but I am realistic enough to know that life is a complex matter. ~ walt disney
